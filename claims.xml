@@ -1,0 +1,5050 @@
+<root>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>176-49-9958</patient-ssn>
+<id>14578690653123158049</id>
+<from>2009-05-13</from>
+<to>2009-05-13</to>
+<payment-amount>0.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0524225268</attending-npi>
+<other-npi>5160069579</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V293</code>
+<name>Observation for suspected genetic or metabolic condition</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2720</code>
+<name>Pure hypercholesterolemia</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>80061</code>
+<name>LIPID PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>83036</code>
+<name>GLYCATED HEMOGLOBIN TEST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>188-34-1279</patient-ssn>
+<id>5420626222642460601</id>
+<from>2009-10-29</from>
+<to>2009-10-29</to>
+<payment-amount>30.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1415257990</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>99282</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>119-73-8732</patient-ssn>
+<id>1116380989143223482</id>
+<from>2008-12-12</from>
+<to>2008-12-16</to>
+<payment-amount>5000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9059626561</attending-npi>
+<admission-date>2008-12-12</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>4</utilization-day-count>
+<discharge-date>2008-12-16</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>49322</code>
+<name>Chronic obstructive asthma with (acute) exacerbation</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53081</code>
+<name>Esophageal reflux</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V462</code>
+<name>Other dependence on machines, supplemental oxygen</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>79902</code>
+<name>Hypoxemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1251</code>
+<name>Personal history of venous thrombosis and embolism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2859</code>
+<name>Anemia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1582</code>
+<name>Personal history of tobacco use</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>100-03-6980</patient-ssn>
+<id>9297180329223867661</id>
+<from>2008-06-16</from>
+<to>2008-06-16</to>
+<payment-amount>300.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7150706176</attending-npi>
+<other-npi>0218046722</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>50.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>24220</code>
+<name>Toxic multinodular goiter without mention of thyrotoxic crisis or storm</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>92611</code>
+<name>MOTION FLUOROSCOPY/SWALLOW</name>
+</procedure>
+<procedure type="cpt">
+<code>92611</code>
+<name>MOTION FLUOROSCOPY/SWALLOW</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>199-61-4676</patient-ssn>
+<id>3328127248589760206</id>
+<from>2009-11-06</from>
+<to>2009-11-06</to>
+<payment-amount>100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1549659824</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>78079</code>
+<name>Other malaise and fatigue</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4293</code>
+<name>Cardiomegaly</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2720</code>
+<name>Pure hypercholesterolemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2859</code>
+<name>Anemia, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>97542</code>
+<name>WHEELCHAIR MNGMENT TRAINING</name>
+</procedure>
+<procedure type="cpt">
+<code>80101</code>
+<name>DRUG SCREEN, SINGLE</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>81003</code>
+<name>URINALYSIS, AUTO, W/O SCOPE</name>
+</procedure>
+<procedure type="cpt">
+<code>85730</code>
+<name>THROMBOPLASTIN TIME, PARTIAL</name>
+</procedure>
+<procedure type="cpt">
+<code>76942</code>
+<name>ECHO GUIDE FOR BIOPSY</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>336-02-3207</patient-ssn>
+<id>12838131381075439882</id>
+<from>2010-05-08</from>
+<to>2010-05-08</to>
+<payment-amount>70.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1550133047</attending-npi>
+<operating-npi>1550133047</operating-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>2721</code>
+<name>Pure hyperglyceridemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>60000</code>
+<name>Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78079</code>
+<name>Other malaise and fatigue</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5869</code>
+<name>Long-term (current) use of other medications</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>82565</code>
+<name>ASSAY OF CREATININE</name>
+</procedure>
+<procedure type="cpt">
+<code>82728</code>
+<name>ASSAY OF FERRITIN</name>
+</procedure>
+<procedure type="cpt">
+<code>84520</code>
+<name>ASSAY OF UREA NITROGEN</name>
+</procedure>
+<procedure type="cpt">
+<code>82550</code>
+<name>ASSAY OF CK (CPK)</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Rx</type>
+<patient-ssn>282-35-1965</patient-ssn>
+<id>8399896349344947243</id>
+<procedures>
+</procedures>
+<rx-service-date>2009-04-14</rx-service-date>
+<ndc>50268046915</ndc>
+<quantity>60.000</quantity>
+<days-supply>30</days-supply>
+<patient-pay-amount>0.00</patient-pay-amount>
+<gross-drug-cost>320.00</gross-drug-cost>
+<drug-name>R LEVETIRACETAM TABLETS 750 MG</drug-name>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>415-43-2521</patient-ssn>
+<id>14161579142715332444</id>
+<from>2010-03-13</from>
+<to>2010-03-28</to>
+<payment-amount>100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>5859830382</attending-npi>
+<other-npi>8077073780</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4139</code>
+<name>Other and unspecified angina pectoris</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93797</code>
+<name>CARDIAC REHAB</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>999-15-3312</patient-ssn>
+<id>15873456909363232032</id>
+<from>2010-03-29</from>
+<to>2010-03-29</to>
+<payment-amount>30.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1379097784</attending-npi>
+<operating-npi>1379097784</operating-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>7234</code>
+<name>Brachial neuritis or radiculitis NOS</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>25608</code>
+<name>TREAT FX RAD INTRA-ARTICUL</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>87205</code>
+<name>SMEAR, GRAM STAIN</name>
+</procedure>
+<procedure type="cpt">
+<code>A9270</code>
+<name>NON-COVERED ITEM OR SERVICE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>351-14-8718</patient-ssn>
+<id>9592313450475809109</id>
+<from>2010-11-08</from>
+<to>2010-11-08</to>
+<payment-amount>600.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1589877364</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>20.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4561</code>
+<name>Esophageal varices without mention of bleeding</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53550</code>
+<name>Unspecified gastritis and gastroduodenitis, without mention of hemorrhage</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78650</code>
+<name>Chest pain, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>330-95-0354</patient-ssn>
+<id>1716731332228072786</id>
+<from>2009-11-19</from>
+<to>2009-11-19</to>
+<payment-amount>100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9564913133</attending-npi>
+<other-npi>6954916760</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>30.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>30000</code>
+<name>Anxiety state, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53081</code>
+<name>Esophageal reflux</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2900</code>
+<name>Senile dementia, uncomplicated</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99213</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>99214</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>394-99-3892</patient-ssn>
+<id>11738384231507558244</id>
+<from>2009-04-09</from>
+<to>2009-04-12</to>
+<payment-amount>7000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9034044895</attending-npi>
+<admission-date>2009-04-09</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2009-04-12</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>07044</code>
+<name>Chronic hepatitis C with hepatic coma</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2761</code>
+<name>Hyposmolality and/or hyponatremia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V8741</code>
+<name>Personal history of antineoplastic chemotherapy</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78659</code>
+<name>Other chest pain</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7905</code>
+<name>Other nonspecific abnormal serum enzyme levels</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>100-59-7915</patient-ssn>
+<id>11943148064970695827</id>
+<from>2008-05-17</from>
+<to>2008-05-17</to>
+<payment-amount>200.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7652325340</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>2723</code>
+<name>Hyperchylomicronemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2859</code>
+<name>Anemia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5883</code>
+<name>Encounter for therapeutic drug monitoring</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>86304</code>
+<name>IMMUNOASSAY, TUMOR CA 125</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>74160</code>
+<name>CT ABDOMEN W/DYE</name>
+</procedure>
+<procedure type="cpt">
+<code>80048</code>
+<name>BASIC METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>99211</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>574-85-1233</patient-ssn>
+<id>7569117090704418593</id>
+<from>2010-08-07</from>
+<to>2010-08-07</to>
+<payment-amount>0.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8606567274</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>100.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V1359</code>
+<name>Personal history of other musculoskeletal disorders</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>97035</code>
+<name>ULTRASOUND THERAPY</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>271-42-2450</patient-ssn>
+<id>8895938067021460082</id>
+<from>2010-08-07</from>
+<to>2010-08-07</to>
+<payment-amount>500.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>5576171230</attending-npi>
+<operating-npi>1499233917</operating-npi>
+<bene-part-b-deductible-amount>80.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>43311</code>
+<name>Occlusion and stenosis of carotid artery with cerebral infarction</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>94664</code>
+<name>AEROSOL OR VAPOR INHALATIONS</name>
+</procedure>
+<procedure type="cpt">
+<code>77003</code>
+<name>FLUOROGUIDE FOR SPINE INJECT</name>
+</procedure>
+<procedure type="cpt">
+<code>84484</code>
+<name>ASSAY OF TROPONIN, QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>96372</code>
+</procedure>
+<procedure type="cpt">
+<code>C1769</code>
+<name>GUIDE WIRE</name>
+</procedure>
+<procedure type="cpt">
+<code>96372</code>
+</procedure>
+<procedure type="cpt">
+<code>54150</code>
+<name>CIRCUMCISION</name>
+</procedure>
+<procedure type="cpt">
+<code>52332</code>
+<name>CYSTOSCOPY AND TREATMENT</name>
+</procedure>
+<procedure type="cpt">
+<code>J2001</code>
+<name>LIDOCAINE INJECTION</name>
+</procedure>
+<procedure type="cpt">
+<code>96372</code>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>86900</code>
+<name>BLOOD TYPING, ABO</name>
+</procedure>
+<procedure type="cpt">
+<code>93545</code>
+<name>INJECT FOR CORONARY X-RAYS</name>
+</procedure>
+<procedure type="cpt">
+<code>99284</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>74160</code>
+<name>CT ABDOMEN W/DYE</name>
+</procedure>
+<procedure type="cpt">
+<code>J2250</code>
+<name>INJ MIDAZOLAM HYDROCHLORIDE</name>
+</procedure>
+<procedure type="cpt">
+<code>36571</code>
+<name>INSERT PICVAD CATH</name>
+</procedure>
+<procedure type="cpt">
+<code>94664</code>
+<name>AEROSOL OR VAPOR INHALATIONS</name>
+</procedure>
+<procedure type="cpt">
+<code>80053</code>
+<name>COMPREHEN METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>88361</code>
+<name>IMMUNOHISTOCHEMISTRY, TUMOR</name>
+</procedure>
+<procedure type="cpt">
+<code>99284</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+<procedure type="cpt">
+<code>36832</code>
+<name>AV FISTULA REVISION, OPEN</name>
+</procedure>
+<procedure type="cpt">
+<code>80061</code>
+<name>LIPID PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>99281</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>403-65-8158</patient-ssn>
+<id>12879922891010619219</id>
+<from>2009-07-13</from>
+<to>2009-07-15</to>
+<payment-amount>0.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>3889885658</attending-npi>
+<operating-npi>3889885658</operating-npi>
+<admission-date>2009-07-13</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>2</utilization-day-count>
+<discharge-date>2009-07-15</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5589</code>
+<name>Other and unspecified noninfectious gastroenteritis and colitis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3310</code>
+<name>Alzheimer's disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>496</code>
+<name>Chronic airway obstruction, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4550</code>
+<name>Internal hemorrhoids without mention of complication</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>43889</code>
+<name>Other late effects of cerebrovascular disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5641</code>
+<name>Irritable bowel syndrome</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5867</code>
+<name>Long-term (current) use of insulin</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>4513</code>
+<name>Other endoscopy of small intestine</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>892-03-0140</patient-ssn>
+<id>14151786317665413948</id>
+<from>2010-01-03</from>
+<to>2010-01-03</to>
+<payment-amount>20.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>5779457323</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>79022</code>
+<name>Impaired glucose tolerance test (oral)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2761</code>
+<name>Hyposmolality and/or hyponatremia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99214</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>82374</code>
+<name>ASSAY, BLOOD CARBON DIOXIDE</name>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>85610</code>
+<name>PROTHROMBIN TIME</name>
+</procedure>
+<procedure type="cpt">
+<code>83970</code>
+<name>ASSAY OF PARATHORMONE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>154-35-5461</patient-ssn>
+<id>16300612684762817722</id>
+<from>2009-06-18</from>
+<to>2009-06-18</to>
+<payment-amount>40.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2400954404</attending-npi>
+<other-npi>1838684008</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>80.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4293</code>
+<name>Cardiomegaly</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78605</code>
+<name>Shortness of breath</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3962</code>
+<name>Mitral valve insufficiency and aortic valve stenosis</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>107-90-2151</patient-ssn>
+<id>6549176514344349263</id>
+<from>2010-01-06</from>
+<to>2010-01-09</to>
+<payment-amount>11000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4677774601</attending-npi>
+<operating-npi>8078468417</operating-npi>
+<admission-date>2010-01-06</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2010-01-09</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>82021</code>
+<name>Closed fracture of intertrochanteric section of neck of femur</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>73300</code>
+<name>Osteoporosis, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2800</code>
+<name>Iron deficiency anemia secondary to blood loss (chronic)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7234</code>
+<name>Brachial neuritis or radiculitis NOS</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>496</code>
+<name>Chronic airway obstruction, not elsewhere classified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>8152</code>
+<name>Partial hip replacement</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>320-14-6870</patient-ssn>
+<id>15237815664570264630</id>
+<from>2009-06-19</from>
+<to>2009-06-19</to>
+<payment-amount>80.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7750908773</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5939</code>
+<name>Unspecified disorder of kidney and ureter</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99212</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>96372</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>137-72-5282</patient-ssn>
+<id>7764732291831174236</id>
+<from>2008-07-12</from>
+<to>2008-07-16</to>
+<payment-amount>8000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8202595579</attending-npi>
+<admission-date>2008-07-12</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>4</utilization-day-count>
+<discharge-date>2008-07-16</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5070</code>
+<name>Pneumonitis due to inhalation of food or vomitus</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3310</code>
+<name>Alzheimer's disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>49322</code>
+<name>Chronic obstructive asthma with (acute) exacerbation</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>6822</code>
+<name>Cellulitis and abscess of trunk</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>33182</code>
+<name>Dementia with lewy bodies</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V462</code>
+<name>Other dependence on machines, supplemental oxygen</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V4501</code>
+<name>Cardiac pacemaker in situ</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>741-86-2753</patient-ssn>
+<id>2653234683650427873</id>
+<from>2010-07-07</from>
+<to>2010-07-07</to>
+<payment-amount>300.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0190950031</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>20302</code>
+<name>Multiple myeloma, in relapse</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>96365</code>
+</procedure>
+<procedure type="cpt">
+<code>77414</code>
+<name>RADIATION TREATMENT DELIVERY</name>
+</procedure>
+<procedure type="cpt">
+<code>86800</code>
+<name>THYROGLOBULIN ANTIBODY</name>
+</procedure>
+<procedure type="cpt">
+<code>80053</code>
+<name>COMPREHEN METABOLIC PANEL</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>392-69-8357</patient-ssn>
+<id>5168127949212475925</id>
+<from>2009-01-09</from>
+<to>2009-01-23</to>
+<payment-amount>50.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>3259839133</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4148</code>
+<name>Other specified forms of chronic ischemic heart disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2859</code>
+<name>Anemia, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99213</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>388-72-3459</patient-ssn>
+<id>18217288546420874401</id>
+<from>2009-12-01</from>
+<to>2009-12-01</to>
+<payment-amount>40.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7777306417</attending-npi>
+<other-npi>0600201879</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>24981</code>
+<name>Secondary diabetes mellitus with other specified manifestations, uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>70714</code>
+<name>Ulcer of heel and midfoot</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>72110</code>
+<name>X-RAY EXAM OF LOWER SPINE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>164-79-0700</patient-ssn>
+<id>4958818247680716600</id>
+<from>2008-02-05</from>
+<to>2008-02-09</to>
+<payment-amount>3000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2046251829</attending-npi>
+<operating-npi>7183301382</operating-npi>
+<admission-date>2008-02-05</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>4</utilization-day-count>
+<discharge-date>2008-02-09</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5589</code>
+<name>Other and unspecified noninfectious gastroenteritis and colitis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V173</code>
+<name>Family history of ischemic heart disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>1976</code>
+<name>Secondary malignant neoplasm of retroperitoneum and peritoneum</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2761</code>
+<name>Hyposmolality and/or hyponatremia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3572</code>
+<name>Polyneuropathy in diabetes</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78701</code>
+<name>Nausea with vomiting</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>4516</code>
+<name>Esophagogastroduodenoscopy [EGD] with closed biopsy</name>
+</procedure>
+<procedure type="icd9">
+<code>27651</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>392-43-3778</patient-ssn>
+<id>11244664777855435515</id>
+<from>2010-09-08</from>
+<to>2010-09-11</to>
+<payment-amount>3000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0410524286</attending-npi>
+<admission-date>2010-09-08</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2010-09-11</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>42789</code>
+<name>Other specified cardiac dysrhythmias</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7242</code>
+<name>Lumbago</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3051</code>
+<name>Tobacco use disorder</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>74731817</patient-ssn>
+<id>14302645084615028649</id>
+<from>2010-11-05</from>
+<to>2010-11-05</to>
+<payment-amount>30.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0295010922</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V054</code>
+<name>Need for prophylactic vaccination and inoculation against varicella</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99211</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>G0009</code>
+<name>ADMIN PNEUMOCOCCAL VACCINE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>292-21-1071</patient-ssn>
+<id>11239197210470956407</id>
+<from>2010-03-26</from>
+<to>2010-04-11</to>
+<payment-amount>13000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7219026566</attending-npi>
+<operating-npi>7219026566</operating-npi>
+<admission-date>2010-03-26</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>16</utilization-day-count>
+<discharge-date>2010-04-11</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V5789</code>
+<name>Care involving other specified rehabilitation procedure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>70714</code>
+<name>Ulcer of heel and midfoot</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4280</code>
+<name>Congestive heart failure, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25060</code>
+<name>Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>71534</code>
+<name>Osteoarthrosis, localized, not specified whether primary or secondary, hand</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>43311</code>
+<name>Occlusion and stenosis of carotid artery with cerebral infarction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3101</code>
+<name>Personality change due to conditions classified elsewhere</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>9070</code>
+<name>Late effect of intracranial injury without mention of skull fracture</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4439</code>
+<name>Peripheral vascular disease, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9383</code>
+<name>Occupational therapy</name>
+</procedure>
+<procedure type="icd9">
+<code>4254</code>
+<name>Other intrathoracic esophagoenterostomy</name>
+</procedure>
+<procedure type="icd9">
+<code>2536</code>
+</procedure>
+<procedure type="icd9">
+<code>2761</code>
+<name>Suture of laceration of palate</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>244-88-8956</patient-ssn>
+<id>14796284387196007769</id>
+<from>2009-11-01</from>
+<to>2009-11-01</to>
+<payment-amount>200.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>5040879321</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>40.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>9163</code>
+<name>Blister of hip, thigh, leg, and ankle, infected</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>73130</code>
+<name>X-RAY EXAM OF HAND</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>798-23-0957</patient-ssn>
+<id>5006073800598939693</id>
+<from>2010-09-11</from>
+<to>2010-09-11</to>
+<payment-amount>60.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4046757153</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>40.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5921</code>
+<name>Calculus of ureter</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5920</code>
+<name>Calculus of kidney</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1202</code>
+<name>Personal history of poliomyelitis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2410</code>
+<name>Nontoxic uninodular goiter</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5869</code>
+<name>Long-term (current) use of other medications</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>72110</code>
+<name>X-RAY EXAM OF LOWER SPINE</name>
+</procedure>
+<procedure type="cpt">
+<code>J3360</code>
+<name>DIAZEPAM INJECTION</name>
+</procedure>
+<procedure type="cpt">
+<code>J2405</code>
+<name>ONDANSETRON HCL INJECTION</name>
+</procedure>
+<procedure type="cpt">
+<code>96372</code>
+</procedure>
+<procedure type="cpt">
+<code>83690</code>
+<name>ASSAY OF LIPASE</name>
+</procedure>
+<procedure type="cpt">
+<code>82550</code>
+<name>ASSAY OF CK (CPK)</name>
+</procedure>
+<procedure type="cpt">
+<code>J7030</code>
+<name>NORMAL SALINE SOLUTION INFUS</name>
+</procedure>
+<procedure type="cpt">
+<code>81001</code>
+<name>URINALYSIS, AUTO W/SCOPE</name>
+</procedure>
+<procedure type="cpt">
+<code>96375</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>162-52-1545</patient-ssn>
+<id>5202428960190869602</id>
+<from>2009-12-16</from>
+<to>2009-12-16</to>
+<payment-amount>0.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7014996566</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5920</code>
+<name>Calculus of kidney</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5849</code>
+<name>Other specified aftercare following surgery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7881</code>
+<name>Dysuria</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>0389</code>
+<name>Unspecified septicemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>85049</code>
+<name>AUTOMATED PLATELET COUNT</name>
+</procedure>
+<procedure type="cpt">
+<code>87088</code>
+<name>URINE BACTERIA CULTURE</name>
+</procedure>
+<procedure type="cpt">
+<code>80048</code>
+<name>BASIC METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>84484</code>
+<name>ASSAY OF TROPONIN, QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>62311</code>
+<name>INJECT SPINE L/S (CD)</name>
+</procedure>
+<procedure type="cpt">
+<code>84484</code>
+<name>ASSAY OF TROPONIN, QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>93306</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>703-62-7558</patient-ssn>
+<id>12500769531338383270</id>
+<from>2009-07-23</from>
+<to>2009-07-25</to>
+<payment-amount>5000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6351841388</attending-npi>
+<operating-npi>1172726662</operating-npi>
+<admission-date>2009-07-23</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>2</utilization-day-count>
+<discharge-date>2009-07-25</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>60001</code>
+<name>Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78820</code>
+<name>Retention of urine, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42652</code>
+<name>Right bundle branch block and left anterior fascicular block</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1582</code>
+<name>Personal history of tobacco use</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>49390</code>
+<name>Asthma, unspecified type, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>6019</code>
+<name>Prostatitis, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78862</code>
+<name>Slowing of urinary stream</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>6029</code>
+<name>Other transurethral prostatectomy</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>349-59-3475</patient-ssn>
+<id>6595209761491425702</id>
+<from>2010-02-16</from>
+<to>2010-02-16</to>
+<payment-amount>90.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9348280606</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>20.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>70521</code>
+<name>Primary focal hyperhidrosis</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99212</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>202-37-1827</patient-ssn>
+<id>3623523859306798078</id>
+<from>2010-07-06</from>
+<to>2010-07-06</to>
+<payment-amount>600.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8793064578</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V445</code>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V420</code>
+<name>Kidney replaced by transplant</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>81001</code>
+<name>URINALYSIS, AUTO W/SCOPE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>391-32-7125</patient-ssn>
+<id>4283753350698280535</id>
+<from>2010-07-27</from>
+<to>2010-07-27</to>
+<payment-amount>80.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8251984518</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>20.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V7611</code>
+<name>Screening mammogram for high-risk patient</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>77052</code>
+<name>COMP SCREEN MAMMOGRAM ADD-ON</name>
+</procedure>
+<procedure type="cpt">
+<code>77052</code>
+<name>COMP SCREEN MAMMOGRAM ADD-ON</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>152-09-5826</patient-ssn>
+<id>963730056401312186</id>
+<from>2009-05-26</from>
+<to>2009-06-04</to>
+<payment-amount>16000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>3444959201</attending-npi>
+<operating-npi>4830342584</operating-npi>
+<admission-date>2009-05-26</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>9</utilization-day-count>
+<discharge-date>2009-06-04</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>1518</code>
+<name>Malignant neoplasm of other specified sites of stomach</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>496</code>
+<name>Chronic airway obstruction, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2760</code>
+<name>Hyperosmolality and/or hypernatremia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5601</code>
+<name>Paralytic ileus</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1005</code>
+<name>Personal history of malignant neoplasm of large intestine</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5121</code>
+<name>Iatrogenic pneumothorax</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4414</code>
+<name>Abdominal aneurysm without mention of rupture</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>4441</code>
+<name>Suture of gastric ulcer site</name>
+</procedure>
+<procedure type="icd9">
+<code>5601</code>
+</procedure>
+<procedure type="icd9">
+<code>4280</code>
+</procedure>
+<procedure type="icd9">
+<code>V7281</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>342-22-2319</patient-ssn>
+<id>3161282154411710936</id>
+<from>2008-03-24</from>
+<to>2008-03-28</to>
+<payment-amount>23000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9156656040</attending-npi>
+<operating-npi>0800087611</operating-npi>
+<admission-date>2008-03-24</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>4</utilization-day-count>
+<discharge-date>2008-03-28</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>20400</code>
+<name>Acute lymphoid leukemia, without mention of having achieved remission</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2875</code>
+<name>Thrombocytopenia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5853</code>
+<name>Chronic kidney disease, Stage III (moderate)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>6823</code>
+<name>Cellulitis and abscess of upper arm and forearm</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2768</code>
+<name>Hypopotassemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>03840</code>
+<name>Septicemia due to gram-negative organism, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>0331</code>
+<name>Spinal tap</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>378-84-0554</patient-ssn>
+<id>12059420451727825317</id>
+<from>2009-11-20</from>
+<to>2009-11-20</to>
+<payment-amount>200.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2215496484</attending-npi>
+<operating-npi>2215496484</operating-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>90.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>78701</code>
+<name>Nausea with vomiting</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>412</code>
+<name>Old myocardial infarction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7804</code>
+<name>Dizziness and giddiness</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78909</code>
+<name>Abdominal pain, other specified site</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V140</code>
+<name>Personal history of allergy to penicillin</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1082</code>
+<name>Personal history of malignant melanoma of skin</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>96360</code>
+</procedure>
+<procedure type="cpt">
+<code>80048</code>
+<name>BASIC METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>83540</code>
+<name>ASSAY OF IRON</name>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>85610</code>
+<name>PROTHROMBIN TIME</name>
+</procedure>
+<procedure type="cpt">
+<code>85730</code>
+<name>THROMBOPLASTIN TIME, PARTIAL</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>377-66-2148</patient-ssn>
+<id>13318539798720121389</id>
+<from>2010-12-01</from>
+<to>2010-12-01</to>
+<payment-amount>1100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7271140626</attending-npi>
+<other-npi>7430199001</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>7944</code>
+<name>Nonspecific abnormal results of function study of kidney</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>316-72-2033</patient-ssn>
+<id>18417737690211658225</id>
+<from>2009-10-16</from>
+<to>2009-10-16</to>
+<payment-amount>30.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0461153584</attending-npi>
+<operating-npi>0461153584</operating-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>30.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>2451</code>
+<name>Subacute thyroiditis</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>258-12-7639</patient-ssn>
+<id>17687994037029438828</id>
+<from>2010-03-07</from>
+<to>2010-03-07</to>
+<payment-amount>700.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0250584036</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>50.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>29690</code>
+<name>Unspecified episodic mood disorder</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>496</code>
+<name>Chronic airway obstruction, not elsewhere classified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>423-10-8292</patient-ssn>
+<id>11667611287498789423</id>
+<from>2009-03-04</from>
+<to>2009-03-11</to>
+<payment-amount>4000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0167667386</attending-npi>
+<admission-date>2009-03-04</admission-date>
+<pass-through-per-diem>200.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>7</utilization-day-count>
+<discharge-date>2009-03-11</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>53550</code>
+<name>Unspecified gastritis and gastroduodenitis, without mention of hemorrhage</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2114</code>
+<name>Benign neoplasm of rectum and anal canal</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>27651</code>
+<name>Dehydration</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1011</code>
+<name>Personal history of malignant neoplasm of bronchus and lung</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4439</code>
+<name>Peripheral vascular disease, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5739</code>
+<name>Unspecified disorder of liver</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>311</code>
+<name>Depressive disorder, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>513-51-3669</patient-ssn>
+<id>13534300617192666949</id>
+<from>2010-02-09</from>
+<to>2010-02-09</to>
+<payment-amount>200.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7475158729</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>20.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5689</code>
+<name>Unspecified disorder of peritoneum</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>82803</code>
+<name>BLOOD GASES: PH, PO2, and PCO2</name>
+</procedure>
+<procedure type="cpt">
+<code>87177</code>
+<name>OVA AND PARASITES SMEARS</name>
+</procedure>
+<procedure type="cpt">
+<code>88313</code>
+<name>SPECIAL STAINS</name>
+</procedure>
+<procedure type="cpt">
+<code>87205</code>
+<name>SMEAR, GRAM STAIN</name>
+</procedure>
+<procedure type="cpt">
+<code>87077</code>
+<name>CULTURE AEROBIC IDENTIFY</name>
+</procedure>
+<procedure type="cpt">
+<code>87324</code>
+<name>CLOSTRIDIUM AG, EIA</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>275-52-0762</patient-ssn>
+<id>5717209956389682042</id>
+<from>2010-10-09</from>
+<to>2010-10-16</to>
+<payment-amount>12000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0924116224</attending-npi>
+<operating-npi>9217933918</operating-npi>
+<admission-date>2010-10-09</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>7</utilization-day-count>
+<discharge-date>2010-10-16</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>99642</code>
+<name>Dislocation of prosthetic joint</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1046</code>
+<name>Personal history of malignant neoplasm of prostate</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>33818</code>
+<name>Other acute postoperative pain</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2720</code>
+<name>Pure hypercholesterolemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>71515</code>
+<name>Osteoarthrosis, localized, primary, pelvic region and thigh</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1251</code>
+<name>Personal history of venous thrombosis and embolism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>30503</code>
+<name>Alcohol abuse, in remission</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>0081</code>
+<name>Revision of knee replacement, tibial component</name>
+</procedure>
+<procedure type="icd9">
+<code>V4364</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>721-10-4787</patient-ssn>
+<id>7072454142257401363</id>
+<from>2009-08-05</from>
+<to>2009-08-10</to>
+<payment-amount>5000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2954834365</attending-npi>
+<operating-npi>4029357295</operating-npi>
+<admission-date>2009-08-05</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>5</utilization-day-count>
+<discharge-date>2009-08-10</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>60001</code>
+<name>Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>59969</code>
+<name>Urinary obstruction, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>185</code>
+<name>Malignant neoplasm of prostate</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>33182</code>
+<name>Dementia with lewy bodies</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>55321</code>
+<name>Incisional hernia without mention of obstruction or gangrene</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78829</code>
+<name>Other specified retention of urine</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9904</code>
+<name>Transfusion of packed cells</name>
+</procedure>
+<procedure type="icd9">
+<code>3899</code>
+<name>Other puncture of vein</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>388-68-3844</patient-ssn>
+<id>16743194116974556868</id>
+<from>2009-11-25</from>
+<to>2009-11-27</to>
+<payment-amount>11000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0465315925</attending-npi>
+<operating-npi>8540788864</operating-npi>
+<other-npi>7875194999</other-npi>
+<admission-date>2009-11-25</admission-date>
+<pass-through-per-diem>200.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>2</utilization-day-count>
+<discharge-date>2009-11-27</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5770</code>
+<name>Acute pancreatitis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42832</code>
+<name>Chronic diastolic heart failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5862</code>
+<name>Long-term (current) use of antibiotics</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4280</code>
+<name>Congestive heart failure, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>40390</code>
+<name>Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V08</code>
+<name>Asymptomatic human immunodeficiency virus [HIV] infection status</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9390</code>
+<name>Non-invasive mechanical ventilation</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>122-47-2735</patient-ssn>
+<id>5826396113426627001</id>
+<from>2010-04-07</from>
+<to>2010-04-08</to>
+<payment-amount>10000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8303540566</attending-npi>
+<operating-npi>7402142447</operating-npi>
+<admission-date>2010-04-07</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>1</utilization-day-count>
+<discharge-date>2010-04-08</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>41071</code>
+<name>Subendocardial infarction, initial episode of care</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3051</code>
+<name>Tobacco use disorder</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2851</code>
+<name>Acute posthemorrhagic anemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78551</code>
+<name>Cardiogenic shock</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5845</code>
+<name>Acute kidney failure with lesion of tubular necrosis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5730</code>
+<name>Chronic passive congestion of liver</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>80100</code>
+<name>Closed fracture of base of skull without mention of intra cranial injury, unspecified state of consciousness</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42821</code>
+<name>Acute systolic heart failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4589</code>
+<name>Hypotension, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9672</code>
+<name>Continuous invasive mechanical ventilation for 96 consecutive hours or more</name>
+</procedure>
+<procedure type="icd9">
+<code>4280</code>
+</procedure>
+<procedure type="icd9">
+<code>486</code>
+</procedure>
+<procedure type="icd9">
+<code>41071</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>158-35-2339</patient-ssn>
+<id>8752398779537523904</id>
+<from>2010-10-16</from>
+<to>2010-10-16</to>
+<payment-amount>100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8289900756</attending-npi>
+<operating-npi>2757327814</operating-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>600.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>36644</code>
+<name>Cataract associated with other syndromes</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41400</code>
+<name>Coronary atherosclerosis of unspecified type of vessel, native or graft</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>96372</code>
+</procedure>
+<procedure type="cpt">
+<code>85610</code>
+<name>PROTHROMBIN TIME</name>
+</procedure>
+<procedure type="cpt">
+<code>84484</code>
+<name>ASSAY OF TROPONIN, QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>96376</code>
+</procedure>
+<procedure type="cpt">
+<code>A9270</code>
+<name>NON-COVERED ITEM OR SERVICE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>290-35-5678</patient-ssn>
+<id>16550049079411056943</id>
+<from>2008-03-08</from>
+<to>2008-03-19</to>
+<payment-amount>4000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9300442029</attending-npi>
+<operating-npi>3685694520</operating-npi>
+<admission-date>2008-03-08</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>11</utilization-day-count>
+<discharge-date>2008-03-19</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>99644</code>
+<name>Peri-prosthetic fracture around prosthetic joint</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>27800</code>
+<name>Obesity, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2769</code>
+<name>Electrolyte and fluid disorders not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4589</code>
+<name>Hypotension, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>7975</code>
+<name>Closed reduction of dislocation of hip</name>
+</procedure>
+<procedure type="icd9">
+<code>2724</code>
+<name>Biopsy of mouth, unspecified structure</name>
+</procedure>
+<procedure type="icd9">
+<code>3572</code>
+<name>Other and unspecified repair of ventricular septal defect</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>200-89-3952</patient-ssn>
+<id>9139666978791807617</id>
+<from>2010-04-08</from>
+<to>2010-04-10</to>
+<payment-amount>5000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4747326003</attending-npi>
+<operating-npi>1750650360</operating-npi>
+<other-npi>6336454509</other-npi>
+<admission-date>2010-04-08</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>2</utilization-day-count>
+<discharge-date>2010-04-10</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>41071</code>
+<name>Subendocardial infarction, initial episode of care</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>40390</code>
+<name>Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>496</code>
+<name>Chronic airway obstruction, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>725</code>
+<name>Polymyalgia rheumatica</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4589</code>
+<name>Hypotension, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3310</code>
+<name>Alzheimer's disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3970</code>
+<name>Diseases of tricuspid valve</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>3722</code>
+<name>Left heart cardiac catheterization</name>
+</procedure>
+<procedure type="icd9">
+<code>7802</code>
+<name>Bone graft, humerus</name>
+</procedure>
+<procedure type="icd9">
+<code>4280</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>101-90-4706</patient-ssn>
+<id>2797724668029586199</id>
+<from>2010-04-22</from>
+<to>2010-04-22</to>
+<payment-amount>50.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7665898188</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V125</code>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78079</code>
+<name>Other malaise and fatigue</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2811</code>
+<name>Other vitamin B12 deficiency anemia</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>331-26-2194</patient-ssn>
+<id>3565975765595289589</id>
+<from>2009-07-30</from>
+<to>2009-08-08</to>
+<payment-amount>28000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4712447093</attending-npi>
+<operating-npi>8184097058</operating-npi>
+<admission-date>2009-07-30</admission-date>
+<pass-through-per-diem>200.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>9</utilization-day-count>
+<discharge-date>2009-08-08</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>72252</code>
+<name>Degeneration of lumbar or lumbosacral intervertebral disc</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>72283</code>
+<name>Postlaminectomy syndrome, lumbar region</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>311</code>
+<name>Depressive disorder, not elsewhere classified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>8136</code>
+<name>Refusion of lumbar and lumbosacral spine, anterior column, anterior technique</name>
+</procedure>
+<procedure type="icd9">
+<code>4019</code>
+<name>Other diagnostic procedures on lymphatic structures</name>
+</procedure>
+<procedure type="icd9">
+<code>25000</code>
+</procedure>
+<procedure type="icd9">
+<code>53081</code>
+</procedure>
+<procedure type="icd9">
+<code>7291</code>
+</procedure>
+<procedure type="icd9">
+<code>72252</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>341-92-4321</patient-ssn>
+<id>15126686117407242337</id>
+<from>2008-09-02</from>
+<to>2008-09-04</to>
+<payment-amount>5000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2389594485</attending-npi>
+<admission-date>2008-09-02</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>2</utilization-day-count>
+<discharge-date>2008-09-04</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5609</code>
+<name>Unspecified intestinal obstruction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2859</code>
+<name>Anemia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2948</code>
+<name>Other persistent mental disorders due to conditions classified elsewhere</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1042</code>
+<name>Personal history of malignant neoplasm of other parts of uterus</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>34590</code>
+<name>Epilepsy, unspecified, without mention of intractable epilepsy</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>29580</code>
+<name>Other specified types of schizophrenia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>60011</code>
+<name>Nodular prostate with urinary obstruction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V160</code>
+<name>Family history of malignant neoplasm of gastrointestinal tract</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>294-89-2933</patient-ssn>
+<id>17589305073438553523</id>
+<from>2010-03-22</from>
+<to>2010-03-24</to>
+<payment-amount>10000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1425572625</attending-npi>
+<admission-date>2010-03-22</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>2</utilization-day-count>
+<discharge-date>2010-03-24</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>0088</code>
+<name>Intestinal infection due to other organism, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>45989</code>
+<name>Other specified disorders of circulatory system</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7265</code>
+<name>Enthesopathy of hip region</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1046</code>
+<name>Personal history of malignant neoplasm of prostate</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53081</code>
+<name>Esophageal reflux</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>29680</code>
+<name>Bipolar disorder, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5849</code>
+<name>Acute kidney failure, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>255-70-9010</patient-ssn>
+<id>15060806582636705722</id>
+<from>2010-08-02</from>
+<to>2010-08-02</to>
+<payment-amount>20.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6022067668</attending-npi>
+<other-npi>0272833789</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4279</code>
+<name>Cardiac dysrhythmia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>43310</code>
+<name>Occlusion and stenosis of carotid artery without mention of cerebral infarction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5883</code>
+<name>Encounter for therapeutic drug monitoring</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4280</code>
+<name>Congestive heart failure, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5861</code>
+<name>Long-term (current) use of anticoagulants</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>85610</code>
+<name>PROTHROMBIN TIME</name>
+</procedure>
+<procedure type="cpt">
+<code>80048</code>
+<name>BASIC METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>84075</code>
+<name>ASSAY ALKALINE PHOSPHATASE</name>
+</procedure>
+<procedure type="cpt">
+<code>84132</code>
+<name>ASSAY OF SERUM POTASSIUM</name>
+</procedure>
+<procedure type="cpt">
+<code>82465</code>
+<name>ASSAY, BLD/SERUM CHOLESTEROL</name>
+</procedure>
+<procedure type="cpt">
+<code>G0008</code>
+<name>ADMIN INFLUENZA VIRUS VAC</name>
+</procedure>
+<procedure type="cpt">
+<code>80061</code>
+<name>LIPID PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>84153</code>
+<name>ASSAY OF PSA, TOTAL</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>80053</code>
+<name>COMPREHEN METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>85610</code>
+<name>PROTHROMBIN TIME</name>
+</procedure>
+<procedure type="cpt">
+<code>84520</code>
+<name>ASSAY OF UREA NITROGEN</name>
+</procedure>
+<procedure type="cpt">
+<code>83615</code>
+<name>LACTATE (LD) (LDH) ENZYME</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>634-89-0898</patient-ssn>
+<id>1813683845507746066</id>
+<from>2010-05-08</from>
+<to>2010-05-08</to>
+<payment-amount>6000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9545580599</attending-npi>
+<operating-npi>0946839913</operating-npi>
+<admission-date>2010-05-08</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>1</utilization-day-count>
+<discharge-date>2010-05-08</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>486</code>
+<name>Pneumonia, organism unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>29410</code>
+<name>Dementia in conditions classified elsewhere without behavioral disturbance</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4148</code>
+<name>Other specified forms of chronic ischemic heart disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>30000</code>
+<name>Anxiety state, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>323-89-6314</patient-ssn>
+<id>1929391250613569094</id>
+<from>2010-12-24</from>
+<to>2010-12-24</to>
+<payment-amount>400.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1702085748</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V660</code>
+<name>Convalescence following surgery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V442</code>
+<name>Ileostomy status</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1272</code>
+<name>Personal history of colonic polyps</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>1541</code>
+<name>Malignant neoplasm of rectum</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99213</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>310-73-8880</patient-ssn>
+<id>7679464724445649921</id>
+<from>2009-06-04</from>
+<to>2009-06-04</to>
+<payment-amount>400.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>3493465717</attending-npi>
+<operating-npi>2813037025</operating-npi>
+<other-npi>2867342663</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>56201</code>
+<name>Diverticulitis of small intestine (without mention of hemorrhage)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4414</code>
+<name>Abdominal aneurysm without mention of rupture</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>55320</code>
+<name>Ventral, unspecified, hernia without mention of obstruction or gangrene</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78902</code>
+<name>Abdominal pain, left upper quadrant</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78079</code>
+<name>Other malaise and fatigue</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4011</code>
+<name>Benign essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>71530</code>
+<name>Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>11404</code>
+<name>REMOVAL OF SKIN LESION</name>
+</procedure>
+<procedure type="cpt">
+<code>85018</code>
+<name>HEMOGLOBIN</name>
+</procedure>
+<procedure type="cpt">
+<code>99285</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>339-56-6781</patient-ssn>
+<id>328540026246309355</id>
+<from>2010-01-17</from>
+<to>2010-01-20</to>
+<payment-amount>16000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>3043928092</attending-npi>
+<operating-npi>8259985022</operating-npi>
+<admission-date>2010-01-17</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2010-01-20</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>71596</code>
+<name>Osteoarthrosis, unspecified whether generalized or localized, lower leg</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2749</code>
+<name>Gout, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>8151</code>
+<name>Total hip replacement</name>
+</procedure>
+<procedure type="icd9">
+<code>4660</code>
+<name>Fixation of intestine, not otherwise specified</name>
+</procedure>
+<procedure type="icd9">
+<code>2720</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>307-12-1252</patient-ssn>
+<id>12154299280761412206</id>
+<from>2009-11-07</from>
+<to>2009-11-07</to>
+<payment-amount>300.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>5283081110</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>80.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>78900</code>
+<name>Abdominal pain, unspecified site</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53510</code>
+<name>Atrophic gastritis, without mention of hemorrhage</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78321</code>
+<name>Loss of weight</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5920</code>
+<name>Calculus of kidney</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5533</code>
+<name>Diaphragmatic hernia without mention of obstruction or gangrene</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>71020</code>
+<name>CHEST X-RAY</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>383-04-5891</patient-ssn>
+<id>17210917004691091331</id>
+<from>2010-09-22</from>
+<to>2010-09-23</to>
+<payment-amount>4000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0424516224</attending-npi>
+<operating-npi>4927725254</operating-npi>
+<admission-date>2010-09-22</admission-date>
+<pass-through-per-diem>100.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>1</utilization-day-count>
+<discharge-date>2010-09-23</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5609</code>
+<name>Unspecified intestinal obstruction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53081</code>
+<name>Esophageal reflux</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78701</code>
+<name>Nausea with vomiting</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42731</code>
+<name>Atrial fibrillation</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42822</code>
+<name>Chronic systolic heart failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4550</code>
+<name>Internal hemorrhoids without mention of complication</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>56400</code>
+<name>Constipation, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5363</code>
+<name>Gastroparesis</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>227-05-9716</patient-ssn>
+<id>10223082624182218417</id>
+<from>2008-05-17</from>
+<to>2008-06-21</to>
+<payment-amount>6000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0838509840</attending-npi>
+<operating-npi>9705888139</operating-npi>
+<admission-date>2008-05-17</admission-date>
+<pass-through-per-diem>80.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>39</utilization-day-count>
+<discharge-date>2008-06-21</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>25070</code>
+<name>Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7213</code>
+<name>Lumbosacral spondylosis without myelopathy</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>28529</code>
+<name>Anemia of other chronic disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>70719</code>
+<name>Ulcer of other part of lower limb</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7845</code>
+</diagnosis>
+<diagnosis type="icd9">
+<code>00845</code>
+<name>Intestinal infection due to Clostridium difficile</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5865</code>
+<name>Long-term (current) use of steroids</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>8417</code>
+<name>Amputation above knee</name>
+</procedure>
+<procedure type="icd9">
+<code>7854</code>
+<name>Internal fixation of bone without fracture reduction, carpals and metacarpals</name>
+</procedure>
+<procedure type="icd9">
+<code>V5866</code>
+</procedure>
+<procedure type="icd9">
+<code>5854</code>
+</procedure>
+<procedure type="icd9">
+<code>25060</code>
+</procedure>
+<procedure type="icd9">
+<code>2851</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>234-25-0130</patient-ssn>
+<id>6115043355926895158</id>
+<from>2010-07-25</from>
+<to>2010-07-25</to>
+<payment-amount>60.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4301987408</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>38604</code>
+<name>Inactive M?ni?re's disease</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>83880</code>
+<name>NALORPHINE</name>
+</procedure>
+<procedure type="cpt">
+<code>84484</code>
+<name>ASSAY OF TROPONIN, QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>99282</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>320-87-8916</patient-ssn>
+<id>10352622558209448749</id>
+<from>2010-06-21</from>
+<to>2010-06-21</to>
+<payment-amount>40.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8098726434</attending-npi>
+<other-npi>8933086752</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>50.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>72766</code>
+<name>Nontraumatic rupture of patellar tendon</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>A0425</code>
+<name>GROUND MILEAGE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>130-95-3425</patient-ssn>
+<id>13969177127955795793</id>
+<from>2008-09-16</from>
+<to>2008-09-19</to>
+<payment-amount>20000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7014347578</attending-npi>
+<operating-npi>6608467337</operating-npi>
+<admission-date>2008-09-16</admission-date>
+<pass-through-per-diem>40.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2008-09-19</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>71536</code>
+<name>Osteoarthrosis, localized, not specified whether primary or secondary, lower leg</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53081</code>
+<name>Esophageal reflux</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>70715</code>
+<name>Ulcer of other part of foot</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2874</code>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2851</code>
+<name>Acute posthemorrhagic anemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2859</code>
+<name>Anemia, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>8154</code>
+<name>Total knee replacement</name>
+</procedure>
+<procedure type="icd9">
+<code>27802</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>306-93-5877</patient-ssn>
+<id>17893917601733906741</id>
+<from>2009-07-01</from>
+<to>2009-07-07</to>
+<payment-amount>5000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7327731077</attending-npi>
+<admission-date>2009-07-01</admission-date>
+<pass-through-per-diem>200.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>6</utilization-day-count>
+<discharge-date>2009-07-07</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>1628</code>
+<name>Malignant neoplasm of other parts of bronchus or lung</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7863</code>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2875</code>
+<name>Thrombocytopenia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>27651</code>
+<name>Dehydration</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78959</code>
+<name>Other ascites</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2859</code>
+<name>Anemia, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>293-33-0186</patient-ssn>
+<id>9038677472360104170</id>
+<from>2010-03-24</from>
+<to>2010-03-24</to>
+<payment-amount>20.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9466095039</attending-npi>
+<operating-npi>6201838630</operating-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>50.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>71689</code>
+<name>Other specified arthropathy, multiple sites</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>71951</code>
+<name>Stiffness of joint, not elsewhere classified, shoulder region</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>73500</code>
+<name>X-RAY EXAM OF HIP</name>
+</procedure>
+<procedure type="cpt">
+<code>99213</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>99212</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>J1885</code>
+<name>KETOROLAC TROMETHAMINE INJ</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>167-42-0383</patient-ssn>
+<id>8928210950902591806</id>
+<from>2010-10-06</from>
+<to>2010-10-07</to>
+<payment-amount>100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8313970424</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>52572</code>
+<name>Post-osseointegration biological failure of dental implant</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V4577</code>
+<name>Acquired absence of organ, genital organs</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V4589</code>
+<name>Other postprocedural status</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>82550</code>
+<name>ASSAY OF CK (CPK)</name>
+</procedure>
+<procedure type="cpt">
+<code>96374</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>163-48-2924</patient-ssn>
+<id>2107065138282783295</id>
+<from>2010-05-12</from>
+<to>2010-05-20</to>
+<payment-amount>10000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2452521549</attending-npi>
+<operating-npi>3596048645</operating-npi>
+<admission-date>2010-05-12</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>8</utilization-day-count>
+<discharge-date>2010-05-20</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>41071</code>
+<name>Subendocardial infarction, initial episode of care</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4271</code>
+<name>Paroxysmal ventricular tachycardia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>32723</code>
+<name>Obstructive sleep apnea (adult)(pediatric)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4571</code>
+<name>Other lymphedema</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42823</code>
+<name>Acute on chronic systolic heart failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>E8798</code>
+<name>Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>43330</code>
+<name>Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5856</code>
+<name>End stage renal disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9390</code>
+<name>Non-invasive mechanical ventilation</name>
+</procedure>
+<procedure type="icd9">
+<code>4275</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>159-79-9282</patient-ssn>
+<id>16899562903789784564</id>
+<from>2010-01-04</from>
+<to>2010-01-07</to>
+<payment-amount>3000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0307721193</attending-npi>
+<admission-date>2010-01-04</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2010-01-07</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>431</code>
+<name>Intracerebral hemorrhage</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7843</code>
+<name>Aphasia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V4582</code>
+<name>Percutaneous transluminal coronary angioplasty status</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>496</code>
+<name>Chronic airway obstruction, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>43310</code>
+<name>Occlusion and stenosis of carotid artery without mention of cerebral infarction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42822</code>
+<name>Chronic systolic heart failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78079</code>
+<name>Other malaise and fatigue</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78459</code>
+<name>Other speech disturbance</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>189-11-7069</patient-ssn>
+<id>15502319440359053320</id>
+<from>2008-08-17</from>
+<to>2008-08-28</to>
+<payment-amount>11000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7483715497</attending-npi>
+<operating-npi>0495750127</operating-npi>
+<admission-date>2008-08-17</admission-date>
+<pass-through-per-diem>30.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>11</utilization-day-count>
+<discharge-date>2008-08-28</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>43491</code>
+<name>Cerebral artery occlusion, unspecified with cerebral infarction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41400</code>
+<name>Coronary atherosclerosis of unspecified type of vessel, native or graft</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>72271</code>
+<name>Intervertebral disc disorder with myelopathy, cervical region</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>9100</code>
+<name>Abrasion or friction burn of face, neck, and scalp except eye, without mention of infection</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>73300</code>
+<name>Osteoporosis, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>58881</code>
+<name>Secondary hyperparathyroidism (of renal origin)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3485</code>
+<name>Cerebral edema</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5849</code>
+<name>Acute kidney failure, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78722</code>
+<name>Dysphagia, oropharyngeal phase</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9394</code>
+<name>Respiratory medication administered by nebulizer</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>234-16-5076</patient-ssn>
+<id>1849573263954780113</id>
+<from>2010-04-25</from>
+<to>2010-04-25</to>
+<payment-amount>10.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0066576833</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>20.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4379</code>
+<name>Unspecified cerebrovascular disease</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99214</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>226-47-6836</patient-ssn>
+<id>5447296479578324464</id>
+<from>2009-05-12</from>
+<to>2009-05-12</to>
+<payment-amount>0.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9487627846</attending-npi>
+<operating-npi>9487627846</operating-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>20.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>78936</code>
+<name>Abdominal or pelvic swelling, mass, or lump, epigastric</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>43760</code>
+<name>CHANGE OF GASTROSTOMY TUBE</name>
+</procedure>
+<procedure type="cpt">
+<code>99283</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>314-26-1448</patient-ssn>
+<id>4087227934364097623</id>
+<from>2010-01-29</from>
+<to>2010-02-01</to>
+<payment-amount>6000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2916096343</attending-npi>
+<operating-npi>1313534282</operating-npi>
+<other-npi>1313534282</other-npi>
+<admission-date>2010-01-29</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2010-02-01</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>49121</code>
+<name>Obstructive chronic bronchitis with (acute) exacerbation</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>51881</code>
+<name>Acute respiratory failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5849</code>
+<name>Acute kidney failure, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>51884</code>
+<name>Acute and chronic respiratory failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3051</code>
+<name>Tobacco use disorder</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53541</code>
+<name>Other specified gastritis, with hemorrhage</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V462</code>
+<name>Other dependence on machines, supplemental oxygen</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>70713</code>
+<name>Ulcer of ankle</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9390</code>
+<name>Non-invasive mechanical ventilation</name>
+</procedure>
+<procedure type="icd9">
+<code>40390</code>
+</procedure>
+<procedure type="icd9">
+<code>2449</code>
+</procedure>
+<procedure type="icd9">
+<code>42831</code>
+</procedure>
+<procedure type="icd9">
+<code>41401</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>762-48-2489</patient-ssn>
+<id>158994725019676089</id>
+<from>2010-09-25</from>
+<to>2010-09-25</to>
+<payment-amount>80.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6911561883</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>78079</code>
+<name>Other malaise and fatigue</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5866</code>
+<name>Long-term (current) use of aspirin</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78701</code>
+<name>Nausea with vomiting</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>97110</code>
+<name>THERAPEUTIC EXERCISES</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>85379</code>
+<name>FIBRIN DEGRADATION</name>
+</procedure>
+<procedure type="cpt">
+<code>86038</code>
+<name>ANTINUCLEAR ANTIBODIES</name>
+</procedure>
+<procedure type="cpt">
+<code>82728</code>
+<name>ASSAY OF FERRITIN</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>99212</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>406-36-4065</patient-ssn>
+<id>14884936959091350226</id>
+<from>2009-05-12</from>
+<to>2009-05-12</to>
+<payment-amount>60.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>5918375694</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>2722</code>
+<name>Mixed hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V7644</code>
+<name>Screening for malignant neoplasms of prostate</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25002</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4011</code>
+<name>Benign essential hypertension</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>99284</code>
+<name>EMERGENCY DEPT VISIT</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>417-52-7291</patient-ssn>
+<id>9784260255471925838</id>
+<from>2009-09-04</from>
+<to>2009-09-18</to>
+<payment-amount>19000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0426619309</attending-npi>
+<operating-npi>2189395298</operating-npi>
+<admission-date>2009-09-04</admission-date>
+<pass-through-per-diem>100.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>14</utilization-day-count>
+<discharge-date>2009-09-18</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41519</code>
+<name>Other pulmonary embolism and infarction</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>30390</code>
+<name>Other and unspecified alcohol dependence, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>496</code>
+<name>Chronic airway obstruction, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4148</code>
+<name>Other specified forms of chronic ischemic heart disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2762</code>
+<name>Acidosis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3051</code>
+<name>Tobacco use disorder</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>51884</code>
+<name>Acute and chronic respiratory failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3569</code>
+<name>Unspecified hereditary and idiopathic peripheral neuropathy</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>0066</code>
+<name>Percutaneous transluminal coronary angioplasty [PTCA]</name>
+</procedure>
+<procedure type="icd9">
+<code>2752</code>
+<name>Suture of laceration of other part of mouth</name>
+</procedure>
+<procedure type="icd9">
+<code>4019</code>
+<name>Other diagnostic procedures on lymphatic structures</name>
+</procedure>
+<procedure type="icd9">
+<code>30000</code>
+</procedure>
+<procedure type="icd9">
+<code>42983</code>
+</procedure>
+<procedure type="icd9">
+<code>7802</code>
+<name>Bone graft, humerus</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>364-44-6138</patient-ssn>
+<id>4257179253897752522</id>
+<from>2010-07-16</from>
+<to>2010-07-16</to>
+<payment-amount>40.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>1993532433</attending-npi>
+<operating-npi>4382175013</operating-npi>
+<other-npi>2168960232</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>2723</code>
+<name>Hyperchylomicronemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2532</code>
+<name>Panhypopituitarism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>27542</code>
+<name>Hypercalcemia</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>80061</code>
+<name>LIPID PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>84443</code>
+<name>ASSAY THYROID STIM HORMONE</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>83036</code>
+<name>GLYCATED HEMOGLOBIN TEST</name>
+</procedure>
+<procedure type="cpt">
+<code>83615</code>
+<name>LACTATE (LD) (LDH) ENZYME</name>
+</procedure>
+<procedure type="cpt">
+<code>84439</code>
+<name>ASSAY OF FREE THYROXINE</name>
+</procedure>
+<procedure type="cpt">
+<code>85027</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>80048</code>
+<name>BASIC METABOLIC PANEL</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>383-74-9890</patient-ssn>
+<id>15162721892948669591</id>
+<from>2009-01-26</from>
+<to>2009-01-29</to>
+<payment-amount>13000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0979995840</attending-npi>
+<operating-npi>7387139143</operating-npi>
+<admission-date>2009-01-26</admission-date>
+<pass-through-per-diem>200.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>3</utilization-day-count>
+<discharge-date>2009-01-29</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>71596</code>
+<name>Osteoarthrosis, unspecified whether generalized or localized, lower leg</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>73300</code>
+<name>Osteoporosis, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2720</code>
+<name>Pure hypercholesterolemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1251</code>
+<name>Personal history of venous thrombosis and embolism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>E8889</code>
+<name>Unspecified fall</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>311</code>
+<name>Depressive disorder, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>9642</code>
+<name>Poisoning by anticoagulants</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V4579</code>
+<name>Other acquired absence of organ</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>99811</code>
+<name>Hemorrhage complicating a procedure</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>8154</code>
+<name>Total knee replacement</name>
+</procedure>
+<procedure type="icd9">
+<code>V4365</code>
+</procedure>
+<procedure type="icd9">
+<code>73390</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>176-10-4072</patient-ssn>
+<id>4158088966311655380</id>
+<from>2009-06-22</from>
+<to>2009-06-22</to>
+<payment-amount>100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0195907005</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>71933</code>
+<name>Palindromic rheumatism, forearm</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4379</code>
+<name>Unspecified cerebrovascular disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7812</code>
+<name>Abnormality of gait</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>71962</code>
+<name>Other symptoms referable to joint, upper arm</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>72887</code>
+<name>Muscle weakness (generalized)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78722</code>
+<name>Dysphagia, oropharyngeal phase</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>71509</code>
+<name>Osteoarthrosis, generalized, multiple sites</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3310</code>
+<name>Alzheimer's disease</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>97110</code>
+<name>THERAPEUTIC EXERCISES</name>
+</procedure>
+<procedure type="cpt">
+<code>97116</code>
+<name>GAIT TRAINING THERAPY</name>
+</procedure>
+<procedure type="cpt">
+<code>97110</code>
+<name>THERAPEUTIC EXERCISES</name>
+</procedure>
+<procedure type="cpt">
+<code>97530</code>
+<name>THERAPEUTIC ACTIVITIES</name>
+</procedure>
+<procedure type="cpt">
+<code>97112</code>
+<name>NEUROMUSCULAR REEDUCATION</name>
+</procedure>
+<procedure type="cpt">
+<code>97110</code>
+<name>THERAPEUTIC EXERCISES</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>367-04-0193</patient-ssn>
+<id>13587753705543005505</id>
+<from>2009-06-23</from>
+<to>2009-07-01</to>
+<payment-amount>18000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4791887721</attending-npi>
+<operating-npi>4291056587</operating-npi>
+<admission-date>2009-06-23</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>8</utilization-day-count>
+<discharge-date>2009-07-01</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3572</code>
+<name>Polyneuropathy in diabetes</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1582</code>
+<name>Personal history of tobacco use</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5939</code>
+<name>Unspecified disorder of kidney and ureter</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>58881</code>
+<name>Secondary hyperparathyroidism (of renal origin)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>40291</code>
+<name>Unspecified hypertensive heart disease with heart failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4240</code>
+<name>Mitral valve disorders</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2720</code>
+<name>Pure hypercholesterolemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>45829</code>
+<name>Other iatrogenic hypotension</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>0066</code>
+<name>Percutaneous transluminal coronary angioplasty [PTCA]</name>
+</procedure>
+<procedure type="icd9">
+<code>2536</code>
+</procedure>
+<procedure type="icd9">
+<code>41072</code>
+</procedure>
+<procedure type="icd9">
+<code>40390</code>
+</procedure>
+<procedure type="icd9">
+<code>5559</code>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>201-19-2888</patient-ssn>
+<id>6291272203122931634</id>
+<from>2010-02-08</from>
+<to>2010-02-08</to>
+<payment-amount>0.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0467242678</attending-npi>
+<other-npi>2189037246</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>30.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>78960</code>
+<name>Abdominal tenderness, unspecified site</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>73719</code>
+<name>Other kyphosis (acquired)</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5856</code>
+<name>End stage renal disease</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>J1441</code>
+<name>FILGRASTIM 480 MCG INJECTION</name>
+</procedure>
+<procedure type="cpt">
+<code>84295</code>
+<name>ASSAY OF SERUM SODIUM</name>
+</procedure>
+<procedure type="cpt">
+<code>80061</code>
+<name>LIPID PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>93005</code>
+<name>ELECTROCARDIOGRAM, TRACING</name>
+</procedure>
+<procedure type="cpt">
+<code>86923</code>
+<name>COMPATIBILITY TEST, ELECTRIC</name>
+</procedure>
+<procedure type="cpt">
+<code>82947</code>
+<name>ASSAY, GLUCOSE, BLOOD QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>97116</code>
+<name>GAIT TRAINING THERAPY</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>81001</code>
+<name>URINALYSIS, AUTO W/SCOPE</name>
+</procedure>
+<procedure type="cpt">
+<code>71020</code>
+<name>CHEST X-RAY</name>
+</procedure>
+<procedure type="cpt">
+<code>J3010</code>
+<name>FENTANYL CITRATE INJECITON</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>109-62-8642</patient-ssn>
+<id>5735213621609999202</id>
+<from>2009-09-04</from>
+<to>2009-09-05</to>
+<payment-amount>3000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7929345754</attending-npi>
+<admission-date>2009-09-04</admission-date>
+<pass-through-per-diem>80.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>1</utilization-day-count>
+<discharge-date>2009-09-05</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>9654</code>
+<name>Poisoning by aromatic analgesics, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>E8502</code>
+<name>Accidental poisoning by other opiates and related narcotics</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>E8669</code>
+<name>Accidental poisoning by unspecified solid or liquid substance</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>29680</code>
+<name>Bipolar disorder, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>9694</code>
+<name>Poisoning by benzodiazepine-based tranquilizers</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2768</code>
+<name>Hypopotassemia</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>312-84-1280</patient-ssn>
+<id>14386300257341974784</id>
+<from>2010-07-01</from>
+<to>2010-07-01</to>
+<payment-amount>500.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0241486440</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>50.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>71984</code>
+<name>Other specified disorders of joint, hand</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5861</code>
+<name>Long-term (current) use of anticoagulants</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4293</code>
+<name>Cardiomegaly</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>A0425</code>
+<name>GROUND MILEAGE</name>
+</procedure>
+<procedure type="cpt">
+<code>97110</code>
+<name>THERAPEUTIC EXERCISES</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>406-30-9766</patient-ssn>
+<id>9783564779895443902</id>
+<from>2009-10-28</from>
+<to>2009-10-28</to>
+<payment-amount>80.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8065056492</attending-npi>
+<bene-part-b-deductible-amount>30.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V7651</code>
+<name>Special screening for malignant neoplasms of colon</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>79389</code>
+<name>Other (abnormal) findings on radiological examination of breast</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>G0202</code>
+<name>SCREENING MAMMOGRAPHY DIGITAL</name>
+</procedure>
+<procedure type="cpt">
+<code>77052</code>
+<name>COMP SCREEN MAMMOGRAM ADD-ON</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>247-67-9204</patient-ssn>
+<id>308212301597751151</id>
+<from>2010-01-22</from>
+<to>2010-01-22</to>
+<payment-amount>800.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6976229514</attending-npi>
+<other-npi>8844233042</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>300.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V103</code>
+<name>Personal history of malignant neoplasm of breast</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>36415</code>
+<name>DRAWING BLOOD</name>
+</procedure>
+<procedure type="cpt">
+<code>85610</code>
+<name>PROTHROMBIN TIME</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>136-10-3957</patient-ssn>
+<id>12427611910934015835</id>
+<from>2010-10-19</from>
+<to>2010-10-19</to>
+<payment-amount>30.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6611141202</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>2724</code>
+<name>Other and unspecified hyperlipidemia</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7242</code>
+<name>Lumbago</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>80053</code>
+<name>COMPREHEN METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>84460</code>
+<name>ALANINE AMINO (ALT) (SGPT)</name>
+</procedure>
+<procedure type="cpt">
+<code>84153</code>
+<name>ASSAY OF PSA, TOTAL</name>
+</procedure>
+<procedure type="cpt">
+<code>83010</code>
+<name>ASSAY OF HAPTOGLOBIN, QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>84132</code>
+<name>ASSAY OF SERUM POTASSIUM</name>
+</procedure>
+<procedure type="cpt">
+<code>84443</code>
+<name>ASSAY THYROID STIM HORMONE</name>
+</procedure>
+<procedure type="cpt">
+<code>83036</code>
+<name>GLYCATED HEMOGLOBIN TEST</name>
+</procedure>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>84460</code>
+<name>ALANINE AMINO (ALT) (SGPT)</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>279-89-4407</patient-ssn>
+<id>7615317145598516681</id>
+<from>2008-11-04</from>
+<to>2008-11-09</to>
+<payment-amount>6000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>8642239537</attending-npi>
+<operating-npi>3161761436</operating-npi>
+<admission-date>2008-11-04</admission-date>
+<pass-through-per-diem>20.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>5</utilization-day-count>
+<discharge-date>2008-11-09</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>5845</code>
+<name>Acute kidney failure with lesion of tubular necrosis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78550</code>
+<name>Shock, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>00845</code>
+<name>Intestinal infection due to Clostridium difficile</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>27651</code>
+<name>Dehydration</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V113</code>
+<name>Personal history of alcoholism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>40390</code>
+<name>Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>58381</code>
+<name>Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5859</code>
+<name>Chronic kidney disease, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>49320</code>
+<name>Chronic obstructive asthma, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9762</code>
+<name>Removal of ureterostomy tube and ureteral catheter</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>255-64-5616</patient-ssn>
+<id>15904159549060500321</id>
+<from>2009-12-26</from>
+<to>2009-12-30</to>
+<payment-amount>5000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>7461464487</attending-npi>
+<operating-npi>7461464487</operating-npi>
+<admission-date>2009-12-26</admission-date>
+<pass-through-per-diem>10.00</pass-through-per-diem>
+<inpatient-deductible>1068.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>4</utilization-day-count>
+<discharge-date>2009-12-30</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>25081</code>
+<name>Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>53550</code>
+<name>Unspecified gastritis and gastroduodenitis, without mention of hemorrhage</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4149</code>
+<name>Chronic ischemic heart disease, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>42832</code>
+<name>Chronic diastolic heart failure</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4148</code>
+<name>Other specified forms of chronic ischemic heart disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>38611</code>
+<name>Benign paroxysmal positional vertigo</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4660</code>
+<name>Acute bronchitis</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>3572</code>
+<name>Polyneuropathy in diabetes</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>40390</code>
+<name>Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>3893</code>
+<name>Venous catheterization, not elsewhere classified</name>
+</procedure>
+<procedure type="icd9">
+<code>5990</code>
+</procedure>
+<procedure type="icd9">
+<code>7904</code>
+<name>Closed reduction of fracture without internal fixation, phalanges of hand</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>120-38-3001</patient-ssn>
+<id>382252829223672699</id>
+<from>2008-09-30</from>
+<to>2008-09-30</to>
+<payment-amount>80.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>2728949195</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>20.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V823</code>
+<name>Screening for congenital dislocation of hip</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>85025</code>
+<name>AUTOMATED HEMOGRAM</name>
+</procedure>
+<procedure type="cpt">
+<code>81025</code>
+<name>URINE PREGNANCY TEST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>148-17-9543</patient-ssn>
+<id>5545943691376805356</id>
+<from>2008-05-15</from>
+<to>2008-06-04</to>
+<payment-amount>0.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0663036332</attending-npi>
+<other-npi>8443023878</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4148</code>
+<name>Other specified forms of chronic ischemic heart disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>515</code>
+<name>Postinflammatory pulmonary fibrosis</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+<procedure type="cpt">
+<code>93798</code>
+<name>CARDIAC REHAB/MONITOR</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>280-21-2879</patient-ssn>
+<id>15233868523387745817</id>
+<from>2010-11-24</from>
+<to>2010-11-24</to>
+<payment-amount>700.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>3328967119</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>0.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V561</code>
+<name>Fitting and adjustment of extracorporeal dialysis catheter</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>28521</code>
+<name>Anemia in chronic kidney disease</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>A4657</code>
+<name>SYRINGE W/WO NEEDLE</name>
+</procedure>
+<procedure type="cpt">
+<code>A4657</code>
+<name>SYRINGE W/WO NEEDLE</name>
+</procedure>
+<procedure type="cpt">
+<code>A4657</code>
+<name>SYRINGE W/WO NEEDLE</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>101-61-7703</patient-ssn>
+<id>17021013493028257803</id>
+<from>2009-12-30</from>
+<to>2010-01-07</to>
+<payment-amount>9000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>0089470623</attending-npi>
+<operating-npi>0089470623</operating-npi>
+<admission-date>2009-12-30</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>8000.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>8</utilization-day-count>
+<discharge-date>2010-01-07</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>29660</code>
+<name>Bipolar I disorder, most recent episode (or current) mixed, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>49390</code>
+<name>Asthma, unspecified type, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2449</code>
+<name>Unspecified acquired hypothyroidism</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25002</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>30560</code>
+<name>Cocaine abuse, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>313-20-8237</patient-ssn>
+<id>15983691146978305860</id>
+<from>2008-04-23</from>
+<to>2008-04-27</to>
+<payment-amount>3000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9754684357</attending-npi>
+<other-npi>1444233526</other-npi>
+<admission-date>2008-04-23</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>4</utilization-day-count>
+<discharge-date>2008-04-27</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>42731</code>
+<name>Atrial fibrillation</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>7804</code>
+<name>Dizziness and giddiness</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>41401</code>
+<name>Coronary atherosclerosis of native coronary artery</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>71690</code>
+<name>Arthropathy, unspecified, site unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4280</code>
+<name>Congestive heart failure, unspecified</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>965-96-9375</patient-ssn>
+<id>10188372956344116319</id>
+<from>2010-07-12</from>
+<to>2010-07-12</to>
+<payment-amount>60.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6518918441</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>200.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4019</code>
+<name>Unspecified essential hypertension</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5853</code>
+<name>Chronic kidney disease, Stage III (moderate)</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99214</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>99214</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>380-14-7518</patient-ssn>
+<id>14260915237633443573</id>
+<from>2010-03-23</from>
+<to>2010-03-23</to>
+<payment-amount>2000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4357312579</attending-npi>
+<operating-npi>4357312579</operating-npi>
+<admission-date>2010-03-23</admission-date>
+<pass-through-per-diem>50.00</pass-through-per-diem>
+<inpatient-deductible>1100.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>1</utilization-day-count>
+<discharge-date>2010-03-23</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>9975</code>
+<name>Urinary complications, not elsewhere classified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>45340</code>
+<name>Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5856</code>
+<name>End stage renal disease</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>40390</code>
+<name>Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>2875</code>
+<name>Thrombocytopenia, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V1052</code>
+<name>Personal history of malignant neoplasm of kidney</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>49320</code>
+<name>Chronic obstructive asthma, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>78552</code>
+<name>Septic shock</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>968-00-9970</patient-ssn>
+<id>10953823432293582706</id>
+<from>2009-06-06</from>
+<to>2009-06-21</to>
+<payment-amount>1100.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6551475998</attending-npi>
+<bene-part-b-deductible-amount>60.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>71606</code>
+<name>Kaschin-Beck disease, lower leg</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5843</code>
+<name>Aftercare following surgery for injury and trauma</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>72763</code>
+<name>Nontraumatic rupture of extensor tendons of hand and wrist</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>97018</code>
+<name>PARAFFIN BATH THERAPY</name>
+</procedure>
+<procedure type="cpt">
+<code>97530</code>
+<name>THERAPEUTIC ACTIVITIES</name>
+</procedure>
+<procedure type="cpt">
+<code>97535</code>
+<name>SELF CARE MNGMENT TRAINING</name>
+</procedure>
+<procedure type="cpt">
+<code>97112</code>
+<name>NEUROMUSCULAR REEDUCATION</name>
+</procedure>
+<procedure type="cpt">
+<code>97110</code>
+<name>THERAPEUTIC EXERCISES</name>
+</procedure>
+<procedure type="cpt">
+<code>97535</code>
+<name>SELF CARE MNGMENT TRAINING</name>
+</procedure>
+<procedure type="cpt">
+<code>92526</code>
+<name>ORAL FUNCTION THERAPY</name>
+</procedure>
+<procedure type="cpt">
+<code>97530</code>
+<name>THERAPEUTIC ACTIVITIES</name>
+</procedure>
+<procedure type="cpt">
+<code>97124</code>
+<name>MASSAGE THERAPY</name>
+</procedure>
+<procedure type="cpt">
+<code>97535</code>
+<name>SELF CARE MNGMENT TRAINING</name>
+</procedure>
+<procedure type="cpt">
+<code>97535</code>
+<name>SELF CARE MNGMENT TRAINING</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>324-55-7838</patient-ssn>
+<id>5862406547186284303</id>
+<from>2010-11-04</from>
+<to>2010-11-04</to>
+<payment-amount>90.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>6599899728</attending-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>4613</code>
+<name>Acute sphenoidal sinusitis</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>99214</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+<procedure type="cpt">
+<code>90714</code>
+<name>TD VACCINE NO PRSRV >/= 7 IM</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Inpatient</type>
+<patient-ssn>231-76-7528</patient-ssn>
+<id>8019746761950611861</id>
+<from>2008-09-11</from>
+<to>2008-09-13</to>
+<payment-amount>3000.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>4084700189</attending-npi>
+<operating-npi>4084700189</operating-npi>
+<admission-date>2008-09-11</admission-date>
+<pass-through-per-diem>0.00</pass-through-per-diem>
+<inpatient-deductible>1024.00</inpatient-deductible>
+<coinsurance-liability-amount>0.00</coinsurance-liability-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<utilization-day-count>2</utilization-day-count>
+<discharge-date>2008-09-13</discharge-date>
+<diagnoses>
+<diagnosis type="icd9">
+<code>78097</code>
+<name>Altered mental status</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>6959</code>
+<name>Unspecified erythematous condition</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>52310</code>
+<name>Chronic gingivitis, plaque induced</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>34590</code>
+<name>Epilepsy, unspecified, without mention of intractable epilepsy</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>4739</code>
+<name>Unspecified sinusitis (chronic)</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="icd9">
+<code>9904</code>
+<name>Transfusion of packed cells</name>
+</procedure>
+</procedures>
+</claim>
+<claim>
+<type>Outpatient</type>
+<patient-ssn>363-47-0015</patient-ssn>
+<id>15581453926768573950</id>
+<from>2010-07-10</from>
+<to>2010-07-10</to>
+<payment-amount>20.00</payment-amount>
+<primary-payer-paid-amount>0.00</primary-payer-paid-amount>
+<attending-npi>9858811008</attending-npi>
+<other-npi>1504937569</other-npi>
+<bene-part-b-deductible-amount>0.00</bene-part-b-deductible-amount>
+<bene-part-b-coinsurance-amount>10.00</bene-part-b-coinsurance-amount>
+<blood-deductible-liability-amount>0.00</blood-deductible-liability-amount>
+<diagnoses>
+<diagnosis type="icd9">
+<code>V6809</code>
+<name>Other issue of medical certificates</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>1629</code>
+<name>Malignant neoplasm of bronchus and lung, unspecified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>5990</code>
+<name>Urinary tract infection, site not specified</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>V5869</code>
+<name>Long-term (current) use of other medications</name>
+</diagnosis>
+<diagnosis type="icd9">
+<code>25000</code>
+<name>Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled</name>
+</diagnosis>
+</diagnoses>
+<procedures>
+<procedure type="cpt">
+<code>80053</code>
+<name>COMPREHEN METABOLIC PANEL</name>
+</procedure>
+<procedure type="cpt">
+<code>84443</code>
+<name>ASSAY THYROID STIM HORMONE</name>
+</procedure>
+<procedure type="cpt">
+<code>A9270</code>
+<name>NON-COVERED ITEM OR SERVICE</name>
+</procedure>
+<procedure type="cpt">
+<code>84484</code>
+<name>ASSAY OF TROPONIN, QUANT</name>
+</procedure>
+<procedure type="cpt">
+<code>99212</code>
+<name>OFFICE/OUTPATIENT VISIT, EST</name>
+</procedure>
+</procedures>
+</claim>
+</root>
