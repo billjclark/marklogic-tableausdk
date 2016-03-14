@@ -1,4 +1,4 @@
-# marklogic-samplestack
+# marklogic-tableausdk
 
 This sample application demonstrates how to put MarkLogic data into a Tableau Data Extract via a rest extension or *.xqy file.  The rest extension or *.xqy file can actually output data in any format as long as the Tableau SDK program can read the format.  Valid formats include JSPN, XML, and CSV.
 
