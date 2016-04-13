@@ -8,6 +8,8 @@ We also recommend that you output JSON because this is the most used format at T
 
 If you are going to load a lot of documents into a Tableau Data Extract, we recommend that you use pagination.  If there are a lot of updates in the MarkLogic database during the creation of the tableau data extract, we recommend implementing a point-in-time query.
 
+Tableau can consume the JSON/XML/CSV with the web data connector or the Tableau SDK.  In reality, the web data connector is Javascript and the SDK allows you to program in Java, C/C++, or python.  I am confident that the web data connector will one day be folded into the Tableau SDK.  Regardless of language, Tableau creates a Tableau Data extract that stores the result set in a Tableau file.
+
 #Project files are:
 
 	-com/marklogic/tableauextract/ExtractFromJSON.java - Main Java class that generates tde file
@@ -39,6 +41,43 @@ path=...;C:\Program Files\Tableau\SDK\bin
 9) Edit the ExtractFromJSON.java - Enter the JSON URL and the tde file name.
 
 10) Execute ExtractFromJSON.class and look for the tde file.
+
+
+# MarkLogic Tableau Web Data Connector Example
+
+
+The basic steps for implementing a Tableau-MarkLogic Web Data Connector are:
+
+1) Download the Tableau Web Data connector sdk from GitHub.  The URL is https://github.com/tableau/webdataconnector .
+
+2) Create a http server on MarkLogic and copy the SDK contents to the web root of your MarkLogic http server.  The most important files are:
+	a.            Simulator.html
+	b.            Js folder and contents
+	c.             Css folder and contents
+	d.            *.xqy files
+    e.            Web Data Connector html files
+
+3) Create a REST endpoint or *.xqy files that output JSON, XML, or CSV.  I recommend sticking with JSON because JSON is what Tableau tests the most.  You might hit corner cases if you use XML or CSV.  (We hit some bugs with XML that I reported to Tableau.  They said that they would fix.) 
+
+4) Create the data connector html file from an example or my test.  Modify it to use your JSON/XML.  I recommend starting with ml.html.  There are more sophisticated examples in the SDK. 
+
+5) Navigate to you instance of Simulator.html in your browser and load your new data connector into the url.  You should see your html.
+
+6) Press submit and see if the dataconnector successfully loads the data into a table on the Simulator.html page.  If it loads successfully, you are done writing the data connector.  If it does not load, you can use the Chrome debugging tools to step through the code.  Remember- This is easy!
+
+7) Launch the Tableau desktop and create a new workbook.
+
+8) Click on “Connect To Data”
+
+9) Select “Web Data Connector”
+
+10) Type the URL of the data connector that you tested in the Simulator.html file.
+
+11) Select your filters and press submit.
+
+12) Tableau should create an extract.
+
+13) Tableau should now work as if you were using Oracle from this point forward.
 
 # MarkLogic Tableau SDK for C/C++ or Python Examples
 
